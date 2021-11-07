@@ -78,3 +78,4 @@
 
 # Projeto finalizado, [Link do projeto no Netlify](https://dsvendas-lucas-alves.netlify.app/)
 @devSuperior
+- Nota: Após acessar o dashboard aguarde os dados serem carregados pelo heroku

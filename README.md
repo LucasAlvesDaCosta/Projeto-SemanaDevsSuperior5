@@ -1,3 +1,5 @@
+ [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LucasAlvesDaCosta/Projeto-SemanaDevsSuperior5/blob/main/LICENSE) _ *Desenvolvido e licenciado por Lucas Alves da Costa*
+ 
 # Projeto Spring com React Semana DevsSuperior 5
 * 1 Etapa: **FrontEnd com React implantado no Netlify.**
 * 2 Etapa: **BackEnd com SpringBoot implantado no Heroku.**
